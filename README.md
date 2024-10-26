@@ -23,15 +23,16 @@ de uma planilha Excel e envia uma mensagem personalizada para cada contato.
 
 English:
 
-Description
+Description:
 This project automates the process of sending welcome messages to candidates in a recruitment process via WhatsApp. Utilizing Python and libraries such as pandas, pyautogui, and webbrowser, the script reads phone numbers from an Excel spreadsheet and sends a personalized message to each contact.
 
-Features
+Features:
 Automatic sending of messages via WhatsApp.
 Integration with Excel spreadsheets for reading phone numbers.
 Customization of the messages sent.
 Automated process to simplify communication with candidates.
-Technologies Used
+
+Technologies Used:
 Python
 pandas
 pyautogui
