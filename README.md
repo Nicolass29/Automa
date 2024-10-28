@@ -2,20 +2,21 @@ Português:
 
 WhatsApp Process Automation for Candidate Messaging
 
-Descrição
+Descrição:
 
 Este projeto automatiza o processo de envio de mensagens de boas-vindas a candidatos de um processo de admissão 
 por meio do WhatsApp.Utilizando Python e bibliotecas como pandas, pyautogui e webbrowser, o script lê números de telefone 
 de uma planilha Excel e envia uma mensagem personalizada para cada contato.
 
- Funcionalidades
+ Funcionalidades:
  
 - Envio automático de mensagens via WhatsApp.
 - Integração com planilhas Excel para leitura de números de telefone.
 - Personalização das mensagens enviadas.
 - Processo automatizado para simplificar a comunicação com candidatos.
 
- Tecnologias Utilizadas
+ Tecnologias Utilizadas:
+ 
 - Python
 - pandas
 - pyautogui
